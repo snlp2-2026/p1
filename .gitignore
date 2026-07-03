@@ -1,0 +1,7 @@
+.sass-cache/
+_site/
+.jekyll-metadata
+__pycache__/
+.idea
+.ipynb_checkpoints
+a1-baseline.predictions
