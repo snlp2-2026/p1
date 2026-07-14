@@ -1,6 +1,6 @@
 # Assignment 1: Regression
 
-**Deadline:** Aug 16, 2025 23:59 CEST
+**Deadline:** Aug 16, 2026 23:59 CEST
 
 In this assignment, 
 we are interested in predicting ages of children from the poems they wrote.
